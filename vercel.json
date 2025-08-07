@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/qr-enero-costanera",
+            "destination": "https://search.google.com/local/writereview?placeid=ChIJLacwtXu1vJURGCvVrKf1bA4",
+            "permanent": true
+        }
+    ]
+}
