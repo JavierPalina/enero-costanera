@@ -9,7 +9,10 @@ export default function Home() {
           name="description"
           content="Dejanos tu reseña en Google sobre tu experiencia en Enero Costanera."
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="google-site-verification"
+          content="2_LRr1twtNtAgbAF79JL6lRsvjJzvm05yA1CPIjkrn0"
+        />
       </Head>
 
       <main
@@ -24,10 +27,7 @@ export default function Home() {
         }}
       >
         <h1>Gracias por visitarnos 🍽️</h1>
-        <p style={{ maxWidth: 500, marginBottom: 20 }}>
-          En Enero Costanera valoramos tu opinión.  
-          En unos segundos te redirigiremos a nuestra página de reseñas en Google.
-        </p>
+        <p>Serás redirigido a nuestra página de reseñas en Google en unos segundos.</p>
 
         <a
           href="https://search.google.com/local/writereview?placeid=ChIJLacwtXu1vJURGCvVrKf1bA4"
